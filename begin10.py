@@ -3,3 +3,7 @@ b=float(input())
 x=a**2
 y=b**2
 s=x+y
+d=abs(x-y)
+q=x*y
+p=x/y
+print(s,d,q,p)
